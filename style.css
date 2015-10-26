@@ -1,0 +1,26 @@
+body {
+    background-color: #3498DB;
+    font-family: Verdana, Arial;
+}
+
+h3 {
+    color: #FFFFFF;
+}
+
+header {
+    background-color: #525252;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    background-color: #525252;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 5px;
+}
+
+li {
+    list-style-type: none;
+}
