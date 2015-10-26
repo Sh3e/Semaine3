@@ -14,13 +14,13 @@ header {
     padding: 10px;
 }
 
+li {
+    list-style-type: none;
+}
+
 footer {
     background-color: #525252;
     color: #FFFFFF;
     text-align: center;
     padding: 5px;
-}
-
-li {
-    list-style-type: none;
 }
