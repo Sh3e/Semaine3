@@ -3,16 +3,17 @@ body {
     font-family: Verdana, Arial;
 }
 
-h3 {
-    color: #FFFFFF;
-}
-
 header {
     background-color: #525252;
     color: #FFFFFF;
     text-align: center;
     padding: 10px;
 }
+
+h3 {
+    color: #FFFFFF;
+}
+
 
 li {
     list-style-type: none;
